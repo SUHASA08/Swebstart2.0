@@ -1,0 +1,14 @@
+p{
+    color:darkgreen;
+    font-family:"franklin gothic medium"
+    'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:x-large;
+    background-color: blue;
+    text-align:center;
+}
+*{
+    color:red;
+}
+.para{
+    color: blueviolet;
+}
